@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6wMu6oz2M1G+AC4flLZXiaPDC8wcXT7p02jQqwZ4Z6bD9eYCyP+ISLcWi0M/uwC2oGM6i94hH9vSKMEMaVDLSg==",
+  "success": true,
+  "projectFilePath": "D:\\BookstoreBackendDBFirstApproach\\Model\\Model.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\91798\\.nuget\\packages\\experimental.system.messaging\\1.1.0\\experimental.system.messaging.1.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

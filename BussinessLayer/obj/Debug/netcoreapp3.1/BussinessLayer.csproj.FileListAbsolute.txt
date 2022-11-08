@@ -1,0 +1,15 @@
+D:\BookstoreBackendDBFirstApproach\BussinessLayer\bin\Debug\netcoreapp3.1\BussinessLayer.deps.json
+D:\BookstoreBackendDBFirstApproach\BussinessLayer\bin\Debug\netcoreapp3.1\BussinessLayer.dll
+D:\BookstoreBackendDBFirstApproach\BussinessLayer\bin\Debug\netcoreapp3.1\BussinessLayer.pdb
+D:\BookstoreBackendDBFirstApproach\BussinessLayer\bin\Debug\netcoreapp3.1\Model.dll
+D:\BookstoreBackendDBFirstApproach\BussinessLayer\bin\Debug\netcoreapp3.1\RepoLayer.dll
+D:\BookstoreBackendDBFirstApproach\BussinessLayer\bin\Debug\netcoreapp3.1\Model.pdb
+D:\BookstoreBackendDBFirstApproach\BussinessLayer\bin\Debug\netcoreapp3.1\RepoLayer.pdb
+D:\BookstoreBackendDBFirstApproach\BussinessLayer\obj\Debug\netcoreapp3.1\BussinessLayer.csproj.AssemblyReference.cache
+D:\BookstoreBackendDBFirstApproach\BussinessLayer\obj\Debug\netcoreapp3.1\BussinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\BookstoreBackendDBFirstApproach\BussinessLayer\obj\Debug\netcoreapp3.1\BussinessLayer.AssemblyInfoInputs.cache
+D:\BookstoreBackendDBFirstApproach\BussinessLayer\obj\Debug\netcoreapp3.1\BussinessLayer.AssemblyInfo.cs
+D:\BookstoreBackendDBFirstApproach\BussinessLayer\obj\Debug\netcoreapp3.1\BussinessLayer.csproj.CoreCompileInputs.cache
+D:\BookstoreBackendDBFirstApproach\BussinessLayer\obj\Debug\netcoreapp3.1\BussinessLayer.csproj.CopyComplete
+D:\BookstoreBackendDBFirstApproach\BussinessLayer\obj\Debug\netcoreapp3.1\BussinessLayer.dll
+D:\BookstoreBackendDBFirstApproach\BussinessLayer\obj\Debug\netcoreapp3.1\BussinessLayer.pdb
